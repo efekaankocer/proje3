@@ -106,7 +106,7 @@ class Login(QWidget):
         self.setLayout(layout)
 
     def check_password(self):
-        if self.password_input.text() == "1234":  # HOCALIK ŞİFRE
+        if self.password_input.text() == "1234":  
             self.main = PortScannerApp()
             self.main.show()
             self.close()
