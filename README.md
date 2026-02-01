@@ -18,3 +18,8 @@ Kullanıcıdan IP adresi ve port aralığı alarak belirtilen portların açık 
 - Threading
 
 
+## Ekran görüntüleri
+
+<img width="292" height="168" alt="image" src="https://github.com/user-attachments/assets/37c2ff0e-f4e1-4a51-95e2-584c27231988" />
+
+
